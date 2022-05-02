@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Matchstick Guy NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Matchstick Guy NFT Project is a decentralized, click <a href="https://linktr.ee/"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> to see more in our linktree.';
+const welcome_p = 'The Matchstick Guy NFT Project is a decentralized, click <a href="https://linktr.ee/"  target="_blank" rel="noopener noreferrer">Matchstick Guy</a> to see more in our linktree.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
