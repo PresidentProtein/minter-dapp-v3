@@ -81,7 +81,7 @@ async function main() {
     }
 
     try {
-      const url = "https://api.nftport.xyz/v0/metadata/directory";
+      const url = "https://api.nftport.xyz/v0/metadata";
       const options = {
         method: "POST",
         headers: {
