@@ -14,7 +14,7 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 70,
+    growEditionSizeTo: 770,
     layersOrder: [
       { name: "Arms" },
       { name: "Body" },
@@ -25,7 +25,7 @@ const layerConfigurations = [
       { name: "Eyes" },
     ],
   },  {
-    growEditionSizeTo: 77,
+    growEditionSizeTo: 777,
     layersOrder: [
       { name: "Special" },
     ],
@@ -75,7 +75,7 @@ const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the
 const PRESALE_WHITELISTED_ADDRESSES = ["0x8C514BF6bC929463FF0a2617398Fb7ea6Eeb302F"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
-let CONTRACT_ADDRESS = "0x894437062ed49bf25648aed482c8cb6917972cb2"; // If you want to manually include it
+let CONTRACT_ADDRESS = "0x84f606aaa1423a0842511d80ee7b82c5e58320f1"; // If you want to manually include it
 
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
